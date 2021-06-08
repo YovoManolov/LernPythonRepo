@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\libraryManagmentRESTApi\\lirabry"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.dependency.packagePresentation": "hierarchical",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
