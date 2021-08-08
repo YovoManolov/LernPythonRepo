@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+PythonFlaskMongoDbRestAPI/Flask_API_Mongo/api_constants.py
